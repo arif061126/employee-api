@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  position: absolute;
+  width: 100%;
+  bottom: 0%;
+  height: 30px;
+  text-align: center;
+  color: aquamarine;
+  background-color: black;
+}
